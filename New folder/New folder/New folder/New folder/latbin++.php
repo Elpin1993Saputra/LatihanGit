@@ -43,3 +43,8 @@ echo "Angka yangg vali adalah 1 sampai 10...!!!";
 ?>
 
 
+
+
+
+
+
